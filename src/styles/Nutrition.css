@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(37, 150, 190);
+    background-position: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-size: cover;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}

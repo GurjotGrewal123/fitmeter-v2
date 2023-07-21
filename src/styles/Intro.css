@@ -1,0 +1,81 @@
+.main-page {
+    margin-top: -100px;
+    height: 1000px;
+    background-image: url(../images/main-page-bg.jpg);
+    background-position: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-size: cover;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-page-title {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-100px);
+}
+
+.main-page-title p {
+    font-size: 200px;
+    font-weight: 400;
+    cursor: default;
+    background: whitesmoke;
+    background-size: 400% 400%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 10s ease infinite;
+    filter: drop-shadow(4px 5px rgb(0 0 0 / 45%));
+    letter-spacing: 0.1em;
+}
+
+.slogan {
+    text-align: center;
+    transform: translateY(-400px);
+}
+
+.main-page-slogan {
+    color: white;
+    font-weight: 300;
+    font-size: 40px;
+    display: inline-block;
+    overflow: hidden;
+    white-space: nowrap;
+    text-shadow: 2px 1px rgb(0 0 0 / 45%);
+}
+
+
+.navbar-book-now {
+    padding-top: 8px;
+    transform: translateY(-100px);
+}
+
+.navbar-book-btn {
+    transition: 0.5s ease-in-out;
+    border: 2px solid white;
+    padding: 10px;
+    padding-inline: 20px;
+    overflow: hidden;
+    transition: all 300ms ease;
+    text-shadow: 1px 2px rgb(0 0 0 / 45%);
+}
+
+.navbar-book-btn a {
+    padding-right: 0;
+}
+
+.navbar-book-btn:hover {
+    background-color: gold;
+    z-index: 10;
+    font-weight: 600;
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.4);
+    border: 2px solid gold;
+}
+
+.navbar-book-btn:hover::after {
+    left: -100%;
+}

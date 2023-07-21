@@ -1,0 +1,46 @@
+.progress-page {
+    margin-top: -100px;
+    height: 800px;
+    background-image: url(../images/main-page-bg.jpg);
+    background-position: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-size: cover;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.progress-page button {
+    border: none;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 200;
+    background-color: #222;
+    color: #fff;
+    letter-spacing: 1px;
+    border-radius: 3px;
+    transition: 0.7s;
+
+    &:hover {
+        cursor: pointer;
+        color: black;
+        background-color: white;
+    }
+}
+
+.chart {
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.input {
+    padding-bottom: 10px;
+    color: white;
+}
+
+.progress-text {
+    color: white;
+    padding-bottom: 10px;
+    font-size: 25px;
+}
