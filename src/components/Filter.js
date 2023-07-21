@@ -1,6 +1,6 @@
 import React, { Fragment, useState } from "react";
 import { render } from "react-dom";
-import '../styles/Filter.css'
+import '../styles/Filter.css';
 import API from './API.js';
 
 
