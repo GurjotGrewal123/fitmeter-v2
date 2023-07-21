@@ -6,6 +6,7 @@
     flex-direction: column;
     border: 1px solid #ccc;
     position: relative;
+    color: white;
 }
 
 .item-content {
