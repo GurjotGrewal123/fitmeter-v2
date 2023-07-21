@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/fitmeter-v2/static/css/main.84c25972.css",
+    "main.css": "/fitmeter-v2/static/css/main.dbba5441.css",
     "main.js": "/fitmeter-v2/static/js/main.0291a2c6.js",
     "static/js/787.7b8490f5.chunk.js": "/fitmeter-v2/static/js/787.7b8490f5.chunk.js",
     "static/media/main-page-bg.jpg": "/fitmeter-v2/static/media/main-page-bg.5a662ed2102b2ec699ff.jpg",
     "static/media/fitness1.jpg": "/fitmeter-v2/static/media/fitness1.998337698e48a73e44eb.jpg",
     "static/media/fitmeter-logo.png": "/fitmeter-v2/static/media/fitmeter-logo.f634d7bb9004d38a744c.png",
     "index.html": "/fitmeter-v2/index.html",
-    "main.84c25972.css.map": "/fitmeter-v2/static/css/main.84c25972.css.map",
+    "main.dbba5441.css.map": "/fitmeter-v2/static/css/main.dbba5441.css.map",
     "main.0291a2c6.js.map": "/fitmeter-v2/static/js/main.0291a2c6.js.map",
     "787.7b8490f5.chunk.js.map": "/fitmeter-v2/static/js/787.7b8490f5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.84c25972.css",
+    "static/css/main.dbba5441.css",
     "static/js/main.0291a2c6.js"
   ]
 }
