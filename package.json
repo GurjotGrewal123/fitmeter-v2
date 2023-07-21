@@ -47,6 +47,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "version",
     "@faker-js/faker": "^8.0.2",
     "gh-pages": "^5.0.0"
   }

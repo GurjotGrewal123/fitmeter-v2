@@ -1,5 +1,4 @@
 import { createChatBotMessage } from "react-chatbot-kit";
-import CoBotAvatar from "./CoBotAvatar";
 
 const config = {
   lang: "no",
@@ -18,7 +17,6 @@ const config = {
     )
   ],
   state: {},
-  customComponents: { botAvatar: (props) => <CoBotAvatar {...props} /> },
   widgets: []
 };
 

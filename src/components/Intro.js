@@ -16,7 +16,7 @@ const Intro = () => {
                 </div>
             </div>
             <li class="navbar-book-now">
-                <a class="navbar-book-btn"><Link to="/fitmeter-v2/Nutrition">BUY NUTRITION</Link></a>
+                <button class="navbar-book-btn"><Link to="/fitmeter-v2/Nutrition">BUY NUTRITION</Link></button>
             </li>
         </div>
     );
